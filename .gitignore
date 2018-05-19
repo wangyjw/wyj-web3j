@@ -63,4 +63,4 @@ gen/
 .classpath  
 .project  
 .DS_Store  
-/wyj-web3j.iml
+*.iml
