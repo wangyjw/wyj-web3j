@@ -16,6 +16,15 @@
         <module>wyj-web3j-web</module>
     </modules>
 
+   <repositories>
+        <repository>
+            <id>nexus</id>
+            <name>ToJohnNexus</name>
+            <url>http://localhost:8081/repository/maven-public/</url>
+        </repository>
+    </repositories>
+
+
 	<dependencies>
 		<!-- 单元测试 -->
 		<dependency>
